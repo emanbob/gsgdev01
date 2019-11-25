@@ -1,2 +1,2 @@
 # gsgdev01
-building a loop fir my son
+building a loop for my son
